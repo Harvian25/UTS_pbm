@@ -36,7 +36,7 @@ class _HomepageState extends State<Homepage> {
             BottomNavigationBarItem(
                 icon: Icon(Icons.home),
                 label: "Home",
-                backgroundColor: Color(0xff059DC0)),
+                backgroundColor: Color.fromARGB(255, 0, 208, 255)),
             BottomNavigationBarItem(
                 icon: Icon(Icons.food_bank_outlined),
                 label: "Orders",

@@ -30,7 +30,7 @@ class _LoginState extends State<Login> {
                 BlurryContainer(
                   blur: 2,
                   elevation: 0,
-                  color: Colors.transparent,
+                  color: Color.fromARGB(0, 1, 1, 1),
                   padding: const EdgeInsets.all(8),
                   borderRadius: const BorderRadius.all(Radius.circular(20)),
                   child: Column(

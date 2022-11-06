@@ -53,7 +53,7 @@ class _ReviewsState extends State<Reviews> {
             ElevatedButton(
               style: ButtonStyle(
                 backgroundColor:
-                    MaterialStateProperty.all<Color>(Color(0xff04D4F0)),
+                    MaterialStateProperty.all<Color>(Color.fromARGB(255, 0, 185, 210)),
               ),
               onPressed: () {
                 setState(() {

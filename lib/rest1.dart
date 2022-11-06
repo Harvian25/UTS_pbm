@@ -21,14 +21,14 @@ class _MenuState extends State<Menu> {
     {
       "Timing": "In Lunch",
       "Fname": "Dimsum",
-      "Rating": 4.5,
+      "Rating": 4.6,
       "Price": 15000,
       "Image": "assets/Dimsum.jpeg"
     },
     {
       "Timing": "In Breakfast",
       "Fname": "Half Egg",
-      "Rating": 4.0,
+      "Rating": 4.2,
       "Price": 40000,
       "Image": "assets/half_egg.jpeg"
     },
